@@ -1,5 +1,7 @@
 # 🛠️ Página em Manutenção / Maintenance Page
 
+![Imagem de manutenção](./manutencao.png)
+
 ## Olá! 👋  
 O link que você tentou acessar está atualmente em manutenção.  
 Estou me dedicando a documentar um novo exemplo com clareza e qualidade, e em breve tudo estará disponível novamente.  
