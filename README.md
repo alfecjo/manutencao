@@ -1,6 +1,6 @@
 # 🛠️ Página em Manutenção / Maintenance Page
 
-![Imagem de manutenção](./manutencao3.png)
+![Imagem de manutenção](./manutencao4.png)
 
 ## Olá! 👋  
 O link que você tentou acessar está atualmente em manutenção.  
