@@ -1,21 +1,20 @@
-# Página em Manutenção / Maintenance Page
+# 🛠️ Página em Manutenção / Maintenance Page
 
-Olá! 👋  
-O link que você tentou acessar está atualmente **em manutenção**.  
-Estamos trabalhando para melhorar nossos serviços e em breve tudo estará disponível novamente.
+## Olá! 👋  
+O link que você tentou acessar está atualmente em manutenção.  
+Estou me dedicando a documentar um novo exemplo com clareza e qualidade, e em breve tudo estará disponível novamente.  
 
-Hello! 👋  
-The link you tried to access is currently **under maintenance**.  
-We are working to improve our services and everything will be available again soon.
-
----
-
-![Imagem de manutenção](./manutencao.png)
+Agradeço pela compreensão e paciência. 🙏  
+Volte em breve para conferir o conteúdo atualizado!
 
 ---
 
-Agradecemos a sua paciência e compreensão! /  
-Thank you for your patience and understanding!
+## Hello! 👋  
+The link you tried to access is currently under maintenance.  
+I’m currently working on documenting a new example with clarity and quality, and everything will be available again soon.  
+
+Thank you for your patience and understanding. 🙏  
+Come back soon to check out the updated content!
 
 ---
 
